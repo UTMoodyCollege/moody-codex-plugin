@@ -156,5 +156,3 @@ sections:
 - [Moody Style Guide](https://moody.utexas.edu/style-guide): current theme utilities; check the live guide for exact classes.
 
 Refresh from the target site's filtered catalog and current implementations when behavior differs. Keep implementation settings separate from editorial placement recommendations; do not describe the historical catalog as a freshly audited fleet inventory.
-
-

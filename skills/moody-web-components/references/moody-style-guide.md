@@ -11,5 +11,3 @@ Source: [Moody Style Guide](https://moody.utexas.edu/style-guide). Checked Octob
 - Surfaces: `ut-surface-{white,paper,charcoal,orange}`. Current components use square corners.
 
 Expand class-family notation into actual names. Read the live exact-class table before generating markup; these utilities require the site's stylesheet. See [Layout Builder context](layout-builder.md) for structured components and section widths.
-
-

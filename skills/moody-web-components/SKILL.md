@@ -47,6 +47,3 @@ Fix errors and assess warnings; rerun after corrections. If execution is unavail
 - Do not assume every color pairing has sufficient contrast. Supplement the guide with accessible implementation practices, explicitly labeled as recommendations.
 - Do not recreate university marks or imply university endorsement. Use approved assets supplied by the user or verified official sources.
 - Keep reviews concrete: identify the issue, its impact, and the smallest correction. For advice, explain the recommended classes and any integration assumptions. Offer broader architecture only when requested.
-
-
-

@@ -316,4 +316,3 @@ Every block with a link (Hero, Flex Grid, Showcase, Promo Unit, Promo List, Feat
 - **Link text**
 - **Open in new window/tab:** use sparingly.
 - **Link appearance:** no icon, `ut-cta-link--lock` (sign-in required), `ut-cta-link--external` (off-site) or `ut-cta-link--angle-right` (caret).
-

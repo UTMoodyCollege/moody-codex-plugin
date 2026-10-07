@@ -12,4 +12,3 @@ Upstream block forms, usage counts and CKEditor observations were reported by th
 Recipe people, statistics, dates, paths and images are illustrative placeholders, never verified publishing content. Prefer available structured blocks and dynamic directories over manual imitations.
 
 The HTML checker is a static editorial lint, not an HTML sanitizer, browser preview, contrast test or accessibility certification. It can flag image-only links despite meaningful image alt text, and responsive variants of non-ut classes are not accepted. Review those warnings against the actual markup and catalog. Independently avoid iframe embeds outside managed editor controls and unsafe link schemes; a clean lint result does not establish safe or accessible output.
-

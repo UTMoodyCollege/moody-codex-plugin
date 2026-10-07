@@ -19,4 +19,3 @@ for html, message in [
     assert any(level == 'ERROR' and message in text for level, _, text in issues(html)), html
 assert any(level == 'WARN' and 'stripped' in text for level, _, text in issues('<section aria-label="Details"><h2>Details</h2></section>'))
 print('PASS: valid fragment, invalid classes/styles/tags/images, and CKEditor warning.')
-

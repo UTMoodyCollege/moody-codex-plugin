@@ -149,4 +149,3 @@ Add `ut-fit-table` to shrink a narrow table to its content width.
 - Rounded corners (`ut-border-radius-*` other than `none`) and the retired teal/bright palette
 - Hero/Card Builder internals (`mhb-*`, `mcb-*`): not standalone utilities
 - Skipping heading levels, `<h1>` in body content, "click here" link text, images without `alt`
-

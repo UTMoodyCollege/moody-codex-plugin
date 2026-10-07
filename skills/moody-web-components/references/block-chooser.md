@@ -65,4 +65,3 @@ Pick the block by **what the content is**, not by how you'd like it to look. Str
 - **Basic block:** reach for it when no structured block fits the content. Don't use it to rebuild a structured block by hand.
 - **Prove-out:** for styles with little or no live usage (Flex Grid flip, Promo Unit 5/6, Promo List 3/4, Quotation feature), tell the editor to preview before publishing.
 - **Image Link:** its link text isn't rendered, so the image's alt text must describe where the link goes.
-

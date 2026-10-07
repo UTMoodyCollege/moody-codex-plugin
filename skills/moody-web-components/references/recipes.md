@@ -95,4 +95,3 @@ For real heroes with media, overlays and managed buttons, use the Moody Hero blo
   <li><a class="ut-cta-link ut-cta-link--external" href="https://utdirect.utexas.edu">UT Direct (opens external site)</a></li>
 </ul>
 ```
-
