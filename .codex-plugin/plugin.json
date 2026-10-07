@@ -1,0 +1,29 @@
+{
+  "interface": {
+    "displayName": "Moody Web Builder",
+    "shortDescription": "Moody web component guidance",
+    "longDescription": "Build and review web components using Moody College of Communication typography, color, and spacing utilities. Provides source-grounded advice and accessible implementation recommendations. Independent plugin; not an official UT Austin product.",
+    "developerName": "Plugin owner",
+    "category": "Productivity",
+    "defaultPrompt": [
+      "Help me build a Moody web component using the style guide.",
+      "Review this component against Moody web styling and accessibility practices.",
+      "Explain which Moody typography, color, and spacing classes fit this design."
+    ],
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
+    "logoDark": "./assets/icon-dark.svg",
+    "composerIconDark": "./assets/icon-dark.svg",
+    "brandColor": "#074d6a",
+    "brandColorDark": "#074d6a",
+    "capabilities": []
+  },
+  "name": "moody-web-builder",
+  "version": "0.1.3",
+  "description": "Guidance for building and reviewing Moody College of Communication web components using its published style guide.",
+  "author": {
+    "name": "Plugin owner"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}
